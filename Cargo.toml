@@ -8,10 +8,10 @@ authors = ["Alex Good"]
 readme = "README.md"
 
 [dependencies]
-error-chain = "0.10"
-regex = "0.2"
-lazy_static = "0.2"
+error-chain = "0.12.4"
+regex = "1"
+lazy_static = "1"
 
 [dev-dependencies]
-spectral = "0.6"
+spectral = "0.6.0"
 
